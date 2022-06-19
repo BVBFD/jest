@@ -1,5 +1,5 @@
 {
-  "name": "unit-test",
+  "name": "unit-basic",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^28.1.1"
+    "jest": "^27.3.1"
   },
   "dependencies": {
-    "@types/jest": "^28.1.1"
+    "@types/jest": "^27.0.2"
   }
 }
